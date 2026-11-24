@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Better Foods Trading | 3kg app",
+  "description": "3KG Fresh Market — Premium fruits, vegetables, bulk savings, and daily fresh essentials delivered to your doorstep in Bahrain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
